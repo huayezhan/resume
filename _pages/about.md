@@ -9,7 +9,7 @@ profile:
   align: right
   image: hz.jpg
   image_circular: True # crops the image to make it circular
-  address: 
+  address: Christian, Husband, Developer. Soli Deo Gloria.
 
 
 news: true  # includes a list of news items
