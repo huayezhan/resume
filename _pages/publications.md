@@ -1,3 +1,4 @@
+<!-- 
 ---
 layout: page
 permalink: /publications/
@@ -16,3 +17,4 @@ nav_order: 1
 {% endfor %}
 
 </div>
+ -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /teaching/
 title: Teaching
@@ -17,4 +17,4 @@ nav_order: 6
 [Jiangfeng Fan](): Towards more Learning Efficiency with Educational Robot in Tactile Gym
 
 [Bowen Deng](): Coarse-to-fine Robotic Pushing with Tactile Vision and Proprioception
-
+ -->
