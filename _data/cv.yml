@@ -2,21 +2,20 @@
   type: map
   contents:
     - name: Full Name
-      value: Yijiong Lin (林一炯)
+      value: Howard Zhan(詹华烨)
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
-      value: English, Cantonese (native), Mandarin (native)
+      value: English, Hakka (native), Mandarin (native), Teochew(native), Cantonese
 
 - title: Education
   type: time_table
   contents:
-    - title: Doctoral Programme in Engineering Mathematics (Robot Learning)
-      institution: University of Bristol, Bristol, United Kingdom
-      year: 2020 - present
+    - title: Artificial Intelligence - Software Engineer Technology (Fast-track)
+      institution: Centennial College, Toronto, Canada
+      year: 2024.01 - present
       description:
-        - "Thesis: Dexterous Manipulation with Tactile Sensing via Sim-to-real Robot Learning"
-        - "Supervisor: Prof. Nathen Lepora and Dr. Dandan Zhang"
+        - "Web development and AI-Software engineer"
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -24,19 +23,22 @@
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Master Degree in Mechanical Engineering and Automation
+    - title: Bachelor degree in Mechanical Engineering and Automation
       institution: Guangdong University of Technology, Guangzhou, China
-      year: 2017 - 2020
+      year: 2015 - 2019
       description:
-        - "Thesis: Improving the Robot Learning Efficiency with Deep Reinforcement Learning"
-        - "Supervisor: Prof. Yisheng Guan and Dr. Juan Rojas"
+        - "Thesis: Human Pose Estimation Based on Deep Learning"
+        - "Supervisor: Dr. Juan Rojas"
 
-    - title: Bachelor Degree in Mechanical Engineering and Automation
-      institution: Guangdong University of Technology, Guangzhou, China
-      year: 2013 - 2017
+- title: Working Experience
+  type: time_table
+  contents:
+    - title: ROS Software Engineer
+      institution: ZMROBO
+      year: 2019 - 2023
       description:
-        - "Ranking: 1 out of 52"
-        - "Excellent Postgraduate Candidates Exempt from Admission Exam (top 2.9% out of 810)."
+        - "Develop ROS Self-driving Car"
+        - "Design Curriculum of ROS"
         # - Description 2.
 
 # - title: Experience

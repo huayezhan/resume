@@ -9,7 +9,7 @@ profile:
   align: right
   image: hz.jpg
   image_circular: True # crops the image to make it circular
-  address: Soli Deo Gloria.
+  address: 
 
 
 news: true  # includes a list of news items
@@ -24,4 +24,4 @@ I obtained my Bachelor's degree in Mechanical Engineering and Automation at the 
 
 After graduating, I worked at [ZMROBO](https://www.zmrobo.com/) as a [ROS](https://www.ros.org/) software engineer, designing multiple sets of robots for the company and developing courses for universities based on the company's robotic products.
 
-In my free time, I enjoy playing frisbee and exploring city and natural views.
+In my free time, I enjoy playing frisbee, reading and exploring new things.
