@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2018-12-12 07:59:00-0400
+date: 2022-03-29 07:59:00-0400
 inline: true
 ---
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
-I presented our paper in [2018 IEEE International Conference on Robotics and Biomimetics](https://ieeexplore.ieee.org/xpl/conhome/8653250/proceeding) (ROBIO) in Kuala Lumpur, Malaysia.
+Updated the first generation of the ROS robot and developed [the second generation ROS car](https://www.zmrobo.com/products/685).
