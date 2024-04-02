@@ -16,7 +16,7 @@ news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-[I am currently looking for an AI-Software Engineer position, starting around 2024 Winter/2025 Spring.]()
+**I am currently looking for an AI-Software Engineer position, starting around 2024 Winter/2025 Spring.**
 
 I am a student studying in [AI-Software Engineer](https://www.centennialcollege.ca/programs-courses/full-time/artificial-intelligence-fast-track) at Centennial College. I  mainly focus on AI-software and Web app. Specifically, my current interests lie in these topics: Web development, AI-Software, Robotic-AI.
 
