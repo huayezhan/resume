@@ -22,7 +22,7 @@ category: work
     </div>
 </div>
 <div class="caption">
-    This screenshot is TTC passenger system, which has several functions, such as user information and fourm. In terms of user information, passengers tap the presto and the bus information will be recorded in user information, including bus number, bus phone number etc. 
+    This screenshot is TTC passenger lost and found system, which has several functions, such as user information and fourm. In terms of user information, passengers tap the presto and the bus information will be recorded, including bus number, bus phone number etc.
 </div>
 
 You can also put regular text between your rows of images.
