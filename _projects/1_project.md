@@ -1,11 +1,18 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: TTC - Hackathon
+description: to solve the problem of assaulting and user experience.
+img: assets/img/ttclogo.png
 importance: 1
 category: work
 ---
+
+Technical requirements:
+1.Familiar with MERN(MongoDB,Express,React,Node.js)
+2.Familiar with Bootstrap.（design an passenger app and driver app）
+3.Familiar with Web API.
+4.Investigate with some passengers and TTC drivers.
+5.Knowledge of Git/GitHub
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -22,7 +29,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ttchomepage.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
