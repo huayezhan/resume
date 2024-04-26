@@ -16,34 +16,44 @@ category: work
     ---
 
 
-<div class="row1">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/ttchomepage.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption1">
+<div class="caption">
     This screenshot is TTC passenger lost and found system, which has several functions, such as user information and fourm. In terms of user information, passengers tap the presto and the bus will be recorded, including bus number, bus contact phone number etc.
 </div>
 
-<div class="row2">
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/travel_record.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption2">
+<div class="caption">
     Within 3 hours(this is for preventing scam phone calls), passengers can contact with driver to get their lost items. Also, as we can see in the screenshot, it would show time remaining(time for you to contact drivers), bus number, bus contact phone number, and when did you get in bus.
 </div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/signin1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/signin2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Sign in page.
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/signup.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+</div>
+<div class="caption">
+    Sign up page.
 </div>
 
 
