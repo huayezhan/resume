@@ -44,7 +44,7 @@ passenger app: If passengers want to immediately retrieve their lost items, they
     </div>
 </div>
 <div class="caption">
-    Sign in page.
+    It is Sign in page.
 </div>
 
 <div class="row">
@@ -57,21 +57,5 @@ passenger app: If passengers want to immediately retrieve their lost items, they
     Sign up page, passenger should sign up the same email as presto card email, so that the information in presto will upload in the app automatically.
 </div>
 
+driver system: This system is the one next to the driver's seat. He can use this brand new system to prevent passengers from assaulting him.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
