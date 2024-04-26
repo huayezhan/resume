@@ -22,12 +22,14 @@ category: work
     </div>
 </div>
 <div class="caption">
-    This screenshot is TTC passenger lost and found system, which has several functions, such as user information and fourm. In terms of user information, passengers tap the presto and the bus information will be recorded, including bus number, bus phone number etc.
+    This screenshot is TTC passenger lost and found system, which has several functions, such as user information and fourm. In terms of user information, passengers tap the presto and the bus will be recorded, including bus number, bus contact phone number etc.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/travel_record.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 
 <div class="row justify-content-sm-center">
