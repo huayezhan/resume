@@ -51,7 +51,7 @@ category: work
         {% include figure.html path="assets/img/signup.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-</div>
+
 <div class="caption">
     Sign up page.
 </div>
