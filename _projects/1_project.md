@@ -16,6 +16,7 @@ category: work
     ---
 
 
+passenger app: If passengers want to immediately retrieve their lost items, they can use this web app to get in contact with drivers.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/ttchomepage.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -53,7 +54,7 @@ category: work
 </div>
 
 <div class="caption">
-    Sign up page.
+    Sign up page, passenger should sign up the same email as presto card email, so that the information in presto will upload in the app automatically.
 </div>
 
 
