@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some projects are recorded in this list.
+description: Some projects are recorded in this list
 nav: true
 nav_order: 2
 display_categories: [work, fun]
