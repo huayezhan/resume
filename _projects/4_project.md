@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: data analysis in classification modeling
 description: another without an image
 img:
 importance: 3
