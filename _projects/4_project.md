@@ -1,8 +1,8 @@
 ---
 layout: page
-title: data analysis in classification modeling
+title: Data analysis in classification modeling
 description: another without an image
-img: assets/img/3.jpg
+img:assets/img/3.jpg
 importance: 3
 category: fun
 ---

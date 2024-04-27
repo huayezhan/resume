@@ -1,6 +1,6 @@
 ---
 layout: page
-title: web app with React & Firebase
+title: WebApp with React & Firebase
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
