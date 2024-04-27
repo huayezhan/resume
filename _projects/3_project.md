@@ -2,7 +2,7 @@
 layout: page
 title: ROS car with deep learning
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/8.jpg
 importance: 3
 category: work
 ---

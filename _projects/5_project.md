@@ -2,7 +2,7 @@
 layout: page
 title: WebApp with React & Firebase
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/6.jpg
 importance: 5
 category: fun
 ---

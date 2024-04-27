@@ -2,7 +2,7 @@
 layout: page
 title: Data analysis in classification modeling
 description: another without an image
-img:assets/img/3.jpg
+img:assets/img/7.jpg
 importance: 4
 category: fun
 ---
