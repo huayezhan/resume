@@ -2,13 +2,10 @@
 layout: page
 title: Data analysis in classification modeling
 description: another without an image
-img: assets/img/2.jpg
+img: assets/img/8.jpg
 importance: 4
 category: fun
 ---
-
-
-
 
 
 <div class="row">
