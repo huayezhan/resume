@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: Build my own API
 description: a project with no image
 img: assets/img/3.jpg
 importance: 4
