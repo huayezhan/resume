@@ -6,7 +6,7 @@ description: Some projects are recorded in this list
 nav: true
 nav_order: 2
 display_categories: [work, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
