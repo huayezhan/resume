@@ -2,9 +2,9 @@
 layout: page
 title: TTC - Hackathon
 description: to solve the problem of assaulting operators and user experience.
-img: assets/img/ttclogo.jpg
+img: assets/img/ttchomepage.png
 importance: 1
-category: study
+category: study 
 ---
     ---
     Technical requirements:
