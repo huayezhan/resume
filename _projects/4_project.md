@@ -2,7 +2,7 @@
 layout: page
 title: Data analysis in classification modeling
 description: I did this project in 2023/10, will record it later
-img: assets/img/8.jpg
+img: assets/img/data_analysis.png
 importance: 4
 category: study
 ---
