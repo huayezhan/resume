@@ -10,7 +10,6 @@ category: fun
     Technical requirements:
     1.Familiar with Wordpress.
     2.Familiar with VPS.
-    3.Familiar with Web API.
-    4.Investigate with some passengers and TTC drivers.
-    5.Knowledge of Git/GitHub
+    
+
     ---

@@ -11,5 +11,5 @@ category: study
     Technical requirements:
     1.Familiar with Deep Learning.
     2.Format an academic paper.
-    3.
+    
     ---
