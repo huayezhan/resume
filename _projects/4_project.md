@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Data analysis in classification modeling
 description: I did this project in 2023/10, will record it later
@@ -15,4 +15,4 @@ category: study
     3.Familiar with Web API.
     4.Investigate with some passengers and TTC drivers.
     5.Knowledge of Git/GitHub
-    ---
+    --- -->

@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Human Pose Estimation
 description: my bachelor's graduation thesis
@@ -12,4 +12,4 @@ category: study
     1.Familiar with Deep Learning.
     2.Format an academic paper.
     
-    ---
+    --- -->
